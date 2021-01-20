@@ -8,6 +8,11 @@
 - [TypeScript Documentation](https://www.typescriptlang.org/docs)
 - [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 
+### Back-End / Node.js & Express
+- [TypeScript 을 사용해 Express , Node.js 세팅](https://medium.com/@hckcksrl/typescript-%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4-express-node-js-%EC%84%B8%ED%8C%85-12bbdd62513f)
+- [TypeScript + Express + node.js 설정하기](https://velog.io/@y1andyu/TypeScript-Express-node.js-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+- [TypeScript로 Node.js Express 서버 개발하기](https://novemberde.github.io/node/2017/10/22/Express-Typescript.html)
+
 ## What IS TypeScipt
 - Adds new Features + Advantages to JavaScript
 - Browsers CAN'T execute it!
@@ -33,6 +38,8 @@ console.log(add('2','3'));
 $ npm install -g typescript
 ```
 ### Using TypeScript
+**As I said before when using TSC, TypeScript is converted to JavaScript.**
+
 ```shell
 $ tsc 'TypeScritp File Name'
 ```
