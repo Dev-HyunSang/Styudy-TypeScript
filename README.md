@@ -1,8 +1,10 @@
 # Study TypeScript
+TypeScript에 대해서 공부합니다.
 
 ## Learing Video
 - [TypeScript Course for Beginners 2020 - Learn TypeScript from Scratch!](https://youtu.be/BwuLxPH8IDs)
 - [TypeScript Setup With Node & Express](https://youtu.be/zRo2tvQpus8)
+- [An Introduction to TypeScript](https://codesnap.io/course/introduction-to-typescript/what-is-typescript)
 
 ## Learing Documents
 - [TypeScript Documentation](https://www.typescriptlang.org/docs)
