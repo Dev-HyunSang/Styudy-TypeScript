@@ -10,7 +10,6 @@
 
 ## Runing And Building
 ```shell
-$ yarn install
 $ yarn tsc -w
 # And
 $ yarn tsc [FileName]
